@@ -22,19 +22,27 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 > [ante diem + missing days to next important date +] important date with its month + year
 
-This might looking daunting at fist, but let's break it down:
+This might looking daunting at first, but let's break it down:
 
-- **ante diem (a.d.):** This translates quite literally to `before the day` and is a general prefix. Its ommited when on an important date, or the day before one;
-- **missing days to next important date:** Represents the days in Roman Numerals before the next important date. Romans counted **inclusively**, which means that if today was the `11th of January`, and the next important date would be the `13th (Idus)`, we would write `ante diem III Idus`.
-- **important date with its month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of December` (Kalendas), and so we would write `a.d. X Kalendas DECEMBRES`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in.
+- **ante diem (a.d.):** This translates quite literally to `before the day` and is a general prefix. Its ommited when on an important date, or the day before one;  
+  
+- **missing days to next important date:** Represents the days in Roman Numerals before the next important date. Romans counted **inclusively**, which means that if today was the `11th of January`, and the next important date would be the `13th (Idus)`, we would write `ante diem III Idus`;  
+  
+- **important date with its month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of December` (Kalendas), and so we would write `a.d. X Kalendas DECEMBRES`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in;  
+  
 - **year:** Simply the year in Roman Numerals. 2022 would be writen as `MMXXII`.
 
 ## Examples
 
-- `3rd of January` -> `a.d. III Nonas Ianurias` / `10th of February` -> `a.d. IV Idus Februarias` / `28th of April` -> `a.d. IV Kalendas Maias`;
-- `4th of January` -> `pridie Nonas Ianurias` (the day before an important date is the **pridie**);
-- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date, can be written as normal or as **postridie**);
-- `15th of May` -> `Idibus Maius` (important date, so we write in the Abblative form both the important date and the Month)
+- `3rd of January` -> `a.d. III Nonas Ianurias` 
+- `10th of February` -> `a.d. IV Idus Februarias` 
+- `28th of April` -> `a.d. IV Kalendas Maias`;
+  
+- `4th of January` -> `pridie Nonas Ianurias` (the day before an important date is the **pridie**);  
+  
+- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date, can be written as normal or as **postridie**);  
+  
+- `15th of May` -> `Idibus Maius` (important date, so we write in the Abblative form both the important date and the Month).
 
 ---
 
