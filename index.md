@@ -14,6 +14,10 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 ### Important Dates
 
+- **Kalendas**, which is the **1st** day of all months;
+- **Nonas**, which is usually the **5th** day, but the **7th** day in March, May, July and October;
+- **Idus**, which is usually the **13th** day, but the **15th** day in March, May, July and October.
+
 ### Test how this looks in the website. 
 
 ---
