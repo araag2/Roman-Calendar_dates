@@ -64,7 +64,11 @@ From my understanding, one should use the Plural Feminine Ablative case (represe
 
 ## Full Year Calendar
 
-![Calendar 1st half](/assets/images/calendar.png)
+![Calendar p1](/assets/images/calendar_p1.png)
+
+![Calendar p2](/assets/images/calendar_p2.png)
+
+![Calendar p3](/assets/images/calendar_p3.png)
 
 ---
 
@@ -80,4 +84,6 @@ For a compreehensive tutorial with several examples, see [Roman Numerals Tutoria
 
 ---
 
-For an in-depth review on the Calendar System, you can further investigate [our original source](http://roma.andreapollett.com/S7/roma-cal.htm), and the [Wikipedia Page on Roman Dates](https://en.wikipedia.org/wiki/Roman_calendar) on it.
+# Other Resources
+
+For an in-depth review on the Calendar System, you can further investigate [our original source](http://roma.andreapollett.com/S7/roma-cal.htm), and the [Wikipedia Page on Roman Dates](https://en.wikipedia.org/wiki/Roman_calendar).
