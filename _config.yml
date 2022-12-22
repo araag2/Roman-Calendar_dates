@@ -1,9 +1,9 @@
-title: Imperial Roman Dates
+title: Roman Calendar Dates
 author:
   name: araag2
   email: artur.guimas@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  A simple site to explain how to convert Roman Imperial dates to current Date standards.
+  A simple site to explain how to convert Roman Calendar Dates to current Date standards.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
