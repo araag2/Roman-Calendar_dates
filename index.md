@@ -60,9 +60,11 @@ This might looking daunting at first, but let's break it down:
 | **Latin**            | Iulius | Augustus | September  | October  | November  | December  |
 | **Accusitive**       | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
 
-From my understanding, one should use the Plural Feminine Accusative case when **not on** an important date, and the Plural Feminine Ablative case when **on** an important date. 
+From my understanding, one should use the Plural Feminine Ablative case (represented by Latin) when **on** an important date, and the Plural Feminine Accusative case (represented by Accusitive) when **not on** an important date. 
 
 ## Full Year Calendar
+
+![Calendar 1st half](/assets/images/calendar.png)
 
 ---
 
