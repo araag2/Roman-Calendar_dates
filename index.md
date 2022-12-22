@@ -34,15 +34,15 @@ This might looking daunting at fist, but let's break it down:
 
 ### Months in Roman (after 8 B.C.)
 
-| **English**               | January   | February   | March   | April   | May   | June   |
-|---------------------------|-----------|------------|---------|---------|-------|--------|
-| **Latin Name**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius |
-| **Accusitive Case**       | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias |
+| **English**          | January   | February   | March   | April   | May   | June   |
+|----------------------|-----------|------------|---------|---------|-------|--------|
+| **Latin**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius |
+| **Accusitive**       | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias |
 
-| **English**               | July   | August   | September  | October  | November  | December  |
-|---------------------------|--------|----------|------------|----------|-----------|-----------|
-| **Latin Name**            | Iulius | Augustus | September  | October  | November  | December  |
-| **Accusitive Case**       | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
+| **English**          | July   | August   | September  | October  | November  | December  |
+|----------------------|--------|----------|------------|----------|-----------|-----------|
+| **Latin**            | Iulius | Augustus | September  | October  | November  | December  |
+| **Accusitive**       | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
 
 From my understanding, one should use the Plural Feminine Accusative case when **not on** an important date, and the Plural Feminine Ablative case when **on** an important date. 
 
