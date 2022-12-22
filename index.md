@@ -10,21 +10,32 @@ layout: home
 
 # Date System
 
-In Ancient Rome, instead of using a date system where days are counted from the 1st day of each month `(e.g., 16th of May, because it's been 16 days in May)`, Romans relied of counting the days that were left until the next important date. These dates were called, in plural accusative case, `Kalendas`, `Nonas` and `Idus`.
+In Ancient Rome, instead of using a date system where days are counted from the 1st day of each month `(e.g., 16th of May, because it's been 16 days in May)`, Romans relied of counting the days that were left until the next important date. These dates were called, in plural feminine accusative case, `Kalendas`, `Nonas` and `Idus`.
 
 ### Important Dates
 
-- **Kalendas**, which is the **1st** day of all months;
-- **Nonas**, which is usually the **5th** day, but the **7th** day in March, May, July and October;
-- **Idus**, which is usually the **13th** day, but the **15th** day in March, May, July and October.
+- **Kalendas**, which is the **1st** day of all months (Kalendis in Abblative form); 
+- **Nonas**, which is usually the **5th** day, but the **7th** day in March, May, July and October (Nonis in Abblative form);
+- **Idus**, which is usually the **13th** day, but the **15th** day in March, May, July and October (Idibus in Abblative form).
 
-### Test how this looks in the website. 
+### Formulate a date
+
+> ante diem + missing days + 
+
+### Examples
 
 ---
 
 # Reference Sheet
 
 ### Months in Roman (after 8 B.C.)
+
+| **English**               | January   | February   | March   | April   | May   | June   | July   | August   | September  | October  | November  | December  |
+|---------------------------|-----------|------------|---------|---------|-------|--------|--------|----------|------------|----------|-----------|-----------|
+| **Latin Name**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius | Iulius | Augustus | September  | October  | November  | December  |
+| **Plural Feminine Accusitive Case** | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
+
+From my understanding, one should use the Plural Feminine Accusative case when **not on** an important date, and the Plural Feminine Ablative case when **on** an important date. 
 
 ### Full Year Calendar
 
