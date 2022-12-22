@@ -20,7 +20,11 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 ### Formulate a date
 
-> ante diem + missing days + 
+> ante diem + missing days to next important date + important date with its month + year
+
+This might looking daunting at fist, but let's break it down:
+
+- 
 
 ### Examples
 
@@ -30,10 +34,15 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 ### Months in Roman (after 8 B.C.)
 
-| **English**               | January   | February   | March   | April   | May   | June   | July   | August   | September  | October  | November  | December  |
-|---------------------------|-----------|------------|---------|---------|-------|--------|--------|----------|------------|----------|-----------|-----------|
-| **Latin Name**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius | Iulius | Augustus | September  | October  | November  | December  |
-| **Plural Feminine Accusitive Case** | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
+| **English**               | January   | February   | March   | April   | May   | June   |
+|---------------------------|-----------|------------|---------|---------|-------|--------|
+| **Latin Name**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius |
+| **Accusitive Case**       | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias |
+
+| **English**               | July   | August   | September  | October  | November  | December  |
+|---------------------------|--------|----------|------------|----------|-----------|-----------|
+| **Latin Name**            | Iulius | Augustus | September  | October  | November  | December  |
+| **Accusitive Case**       | Iulias | Augustas | Septembres | Octobres | Novembres | Decembres |
 
 From my understanding, one should use the Plural Feminine Accusative case when **not on** an important date, and the Plural Feminine Ablative case when **on** an important date. 
 
