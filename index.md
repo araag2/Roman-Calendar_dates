@@ -7,8 +7,13 @@
 #
 layout: home
 ---
+
 #Test how this looks in the website. 
 ##Test how this looks in the website. 
 ##Test how this looks in the website. 
 
-![Drag Racing](\assets\avatar.jpg)
+![Drag Racing](/assets/images/avatar.jpg)
+
+---
+
+For an in-depth review on the Calendar System, you can further investigate [our original source](http://roma.andreapollett.com/S7/roma-cal.htm), and the [Wikipedia Page](https://en.wikipedia.org/wiki/Roman_calendar) on it.
