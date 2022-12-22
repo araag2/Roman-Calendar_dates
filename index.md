@@ -7,3 +7,6 @@
 #
 layout: home
 ---
+Test how this looks in the website. 
+
+![Drag Racing]('\assets\avatar.jpg')
