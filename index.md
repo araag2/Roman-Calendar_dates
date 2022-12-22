@@ -16,11 +16,9 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 ### Test how this looks in the website. 
 
-![Drag Racing](/assets/images/avatar.jpg)
-
 ---
 
-## Reference Sheet
+# Reference Sheet
 
 ### Months in Roman (after 8 B.C.)
 
@@ -28,9 +26,9 @@ In Ancient Rome, instead of using a date system where days are counted from the 
 
 ---
 
-## FAQ
+# FAQ
 
-> **Question:** How do I convert Roman Numerals?
+> **Question:** How do I read Roman Numerals?
 
 **Answer:** To read a Roman Numeral (e.g., XXV), we use I, V, X, L, C and M to simbolize 1, 5, 10, 50, 100, 500 and 1000 respectively. Then, they're written from the largest to the smallest, left to right, so 'XXV' corresponds to 'X(10)' + 'X(10)' + 'V(5)' = '25'. 
 {: .text-justify}
@@ -39,7 +37,6 @@ The exception to this rule is that Romans wouldn't write the same symbol four ti
 {: .text-justify}
 
 For a compreehensive tutorial with several examples, see [Roman Numerals Tutorial](https://www.knowtheromans.com/roman-numerals/#:~:text=Roman%20numerals%20use%20seven%20letters,make%20up%20thousands%20of%20numbers.).
-{: .text-justify}
 
 ---
 
