@@ -30,7 +30,7 @@ This might looking daunting at first, but let's break it down:
   
 - **important date with month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of December` (Kalendas), and so we would write `a.d. X Kalendas DECEMBRES`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in;  
   
-- **year:** Simply the year in Roman Numerals. 2022 would be writen as `MMXXII`.
+- **year:** The year in Roman Numerals. 2023 would be writen as `MMXXIII`.
 
 ## Examples
 
