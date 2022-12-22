@@ -40,7 +40,7 @@ This might looking daunting at first, but let's break it down:
   
 - `4th of January` -> `pridie Nonas Ianurias` (the day before an important date is the **pridie**);  
   
-- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date, can be written as normal or as **postridie**);  
+- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date can be written as normal OR as **postridie**);  
   
 - `15th of May` -> `Idibus Maius` (important date, so we write in the Abblative form both the important date and the Month).
 
@@ -78,7 +78,7 @@ From my understanding, one should use the Plural Feminine Ablative case (represe
 
 **Answer:** To read a Roman Numeral (e.g., XXV), we use I, V, X, L, C and M to simbolize 1, 5, 10, 50, 100, 500 and 1000 respectively. Then, they're written from the largest to the smallest, left to right, so `XXV` corresponds to `X(10)` + `X(10)` + `V(5)` = `25`. 
 
-The exception to this rule is that Romans wouldn't write the same symbol four times in a row, and therefore we also need to use subraction. Thus, when the largest from smallest order is not upheld, it means a subtraction is at hand. For example, `XIX` is `X(10)` - `I(10)` + `X(10)` = 19, because I < X, and the X is to the right of it. 
+The exception to this rule is that Romans wouldn't write the same symbol four times in a row, and therefore we also need to use subraction. Thus, when the largest from smallest order is not upheld, it means a subtraction is at hand. For example, `XIX` is `X(10)` - `I(1)` + `X(10)` = 19, because I < X, and the X is to the right of it. 
 
 For a compreehensive tutorial with several examples, see [Roman Numerals Tutorial](https://www.knowtheromans.com/roman-numerals/#:~:text=Roman%20numerals%20use%20seven%20letters,make%20up%20thousands%20of%20numbers.).
 
