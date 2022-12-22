@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculator</title>
+</head>
+<body>
+  <h1>Calculator</h1>
+  <form>
+    <input type="text" id="input" />
+    <button type="button" id="button">Calculate</button>
+  </form>
+  <div id="result"></div>
+  <script>
+    const button = document.getElementById('button');
+    const input = document.getElementById('input');
+    const result = document.getElementById('result');
+    button.addEventListener('click', () => {
+      result.textContent = eval(input.value);
+    });
+  </script>
+</body>
+</html>
