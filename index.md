@@ -12,32 +12,40 @@ layout: home
 
 In Ancient Rome, instead of using a date system where days are counted from the 1st day of each month `(e.g., 16th of May, because it's been 16 days in May)`, Romans relied of counting the days that were left until the next important date. These dates were called, in plural feminine accusative case, `Kalendas`, `Nonas` and `Idus`.
 
-### Important Dates
+## Important Dates
 
 - **Kalendas**, which is the **1st** day of all months (Kalendis in Abblative form); 
 - **Nonas**, which is usually the **5th** day, but the **7th** day in March, May, July and October (Nonis in Abblative form);
 - **Idus**, which is usually the **13th** day, but the **15th** day in March, May, July and October (Idibus in Abblative form).
 
-### Formulate a date
+## Formulate a date
 
-> ante diem + missing days to next important date + important date with its month + year
+> [ante diem + missing days to next important date +] important date with its month + year
 
 This might looking daunting at fist, but let's break it down:
 
-- 
+- **ante diem (a.d.):** This translates quite literally to `before the day` and is a general prefix. Its ommited when on an important date, or the day before one;
+- **missing days to next important date:** Represents the days in Roman Numerals before the next important date. Romans counted **inclusively**, which means that if today was the `11th of January`, and the next important date would be the `13th (Idus)`, we would write `ante diem III Idus`.
+- **important date with its month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of December` (Kalendas), and so we would write `a.d. X Kalendas DECEMBRES`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in.
+- **year:** Simply the year in Roman Numerals. 2022 would be writen as `MMXXII`.
 
-### Examples
+## Examples
+
+- `3rd of January` -> `a.d. III Nonas Ianurias` / `10th of February` -> `a.d. IV Idus Februarias` / `28th of April` -> `a.d. IV Kalendas Maias`;
+- `4th of January` -> `pridie Nonas Ianurias` (the day before an important date is the **pridie**);
+- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date, can be written as normal or as **postridie**);
+- `15th of May` -> `Idibus Maius` (important date, so we write in the Abblative form both the important date and the Month)
 
 ---
 
 # Reference Sheet
 
-### Months in Roman (after 8 B.C.)
+## Months in Roman (after 8 B.C.)
 
-| **English**          | January   | February   | March   | April   | May   | June   |
-|----------------------|-----------|------------|---------|---------|-------|--------|
-| **Latin**            | Ianuarius | Februarius | Martius | Aprilis | Maius | Iunius |
-| **Accusitive**       | Ianurias  | Februarias | Martias | Aprilis | Maias | Iunias |
+| **English**          | January    | February   | March   | April   | May   | June   |
+|----------------------|------------|------------|---------|---------|-------|--------|
+| **Latin**            | Ianuarius  | Februarius | Martius | Aprilis | Maius | Iunius |
+| **Accusitive**       | Ianuarias  | Februarias | Martias | Aprilis | Maias | Iunias |
 
 | **English**          | July   | August   | September  | October  | November  | December  |
 |----------------------|--------|----------|------------|----------|-----------|-----------|
@@ -46,7 +54,7 @@ This might looking daunting at fist, but let's break it down:
 
 From my understanding, one should use the Plural Feminine Accusative case when **not on** an important date, and the Plural Feminine Ablative case when **on** an important date. 
 
-### Full Year Calendar
+## Full Year Calendar
 
 ---
 
