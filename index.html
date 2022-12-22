@@ -1,22 +1,56 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Calculator</title>
+  <title>Calendar</title>
 </head>
 <body>
-  <h1>Calculator</h1>
-  <form>
-    <input type="text" id="input" />
-    <button type="button" id="button">Calculate</button>
-  </form>
-  <div id="result"></div>
+  <h1>Calendar</h1>
+  <div id="calendar"></div>
   <script>
-    const button = document.getElementById('button');
-    const input = document.getElementById('input');
-    const result = document.getElementById('result');
-    button.addEventListener('click', () => {
-      result.textContent = eval(input.value);
-    });
+    const calendar = document.getElementById('calendar');
+
+    // Create a new date object for the current month
+    const date = new Date();
+    const month = date.getMonth();
+    const year = date.getFullYear();
+    const monthNames = [
+      'January', 'February', 'March', 'April', 'May', 'June',
+      'July', 'August', 'September', 'October', 'November', 'December'
+    ];
+    calendar.textContent = `${monthNames[month]} ${year}`;
+
+    // Create a table with the days of the month
+    const table = document.createElement('table');
+    const thead = document.createElement('thead');
+    const tbody = document.createElement('tbody');
+    const weekdays = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
+    thead.innerHTML = `<tr><th>${weekdays.join('</th><th>')}</th></tr>`;
+    table.appendChild(thead);
+    table.appendChild(tbody);
+    calendar.appendChild(table);
+
+    // Fill the table with the days of the month
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const firstDay = new Date(year, month, 1).getDay();
+    let days = [];
+    for (let i = 0; i < firstDay; i++) {
+      days.push('');
+    }
+    for (let i = 1; i <= daysInMonth; i++) {
+      days.push(i);
+    }
+    while (days.length % 7 !== 0) {
+      days.push('');
+    }
+    for (let i = 0; i < days.length; i++) {
+      if (i % 7 === 0) {
+        const tr = document.createElement('tr');
+        tbody.appendChild(tr);
+      }
+      const td = document.createElement('td');
+      td.textContent = days[i];
+      tbody.lastChild.appendChild(td);
+    }
   </script>
 </body>
 </html>
