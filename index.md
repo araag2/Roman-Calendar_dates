@@ -40,7 +40,7 @@ This might looking daunting at first, but let's break it down:
   
 - `4th of January` -> `pridie Nonas Ianurias` (the day before an important date is the **pridie**);  
   
-- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Idus Iunias` (the day after an important date can be written as normal OR as **postridie**);  
+- `6th of June` -> `a.d. VIII Idus Iunias` OR  `postridie Nonas Iunias` (the day after an important date can be written as normal OR as **postridie**);  
   
 - `15th of May` -> `Idibus Maius` (important date, so we write in the Abblative form both the important date and the Month).
 
