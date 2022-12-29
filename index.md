@@ -28,9 +28,9 @@ This might looking daunting at first, but let's break it down:
   
 - **days until next important date:** Represents the days in Roman Numerals before the next important date. Romans counted **inclusively**, which means that if today was the `11th of January`, and the next important date would be the `13th of January(Idus)`, we would write `ante diem III Idus Ianuarias`;  
   
-- **important date with month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of December` (Kalendas), and so we would write `a.d. X Kalendas DECEMBRES`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in;  
+- **important date with month:** This is the somewhat tricky part. We need to locate the next important date in the Calendar, even if it only occurs in the following month. So, for example, in the `23rd of January`, the next important date will be the `1st of February` (Kalendas), and so we would write `a.d. X Kalendas FEBRUARIAS`. The point is not to write the current month, but the next important date `(Kalendas/Nonas/Idus)` and the Month it will occur in;  
   
-- **year:** The year in Roman Numerals. 2023 would be writen as `MMXXIII`.
+- **year:** The **current** year in Roman Numerals. 2023 would be writen as `MMXXIII`.
 
 ## Examples
 
