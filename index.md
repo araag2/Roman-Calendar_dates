@@ -64,11 +64,11 @@ From my understanding, one should use the Plural Feminine Ablative case (represe
 
 ## Full Year Calendar
 
-![Calendar p1](/assets/images/calendar_p1.png)
+![Calendar p1](/assets/images/calendar_1.png)
 
-![Calendar p2](/assets/images/calendar_p2.png)
+![Calendar p2](/assets/images/calendar_2.png)
 
-![Calendar p3](/assets/images/calendar_p3.png)
+![Calendar p3](/assets/images/calendar_3.png)
 
 ---
 
